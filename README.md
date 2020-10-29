@@ -1,2 +1,1 @@
-# tindog
-A static website for dogs.
+TinDog Starting Files
